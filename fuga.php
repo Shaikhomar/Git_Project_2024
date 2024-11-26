@@ -1,5 +1,5 @@
 <?php
-
+// First Commit or change
 //DB Connection Details
 
 $host="localhost";
